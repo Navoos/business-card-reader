@@ -24,12 +24,16 @@ A Python application for reading and extracting key information from business ca
    Ensure that Tesseract is installed. You may want to set the `TESSDATA_PREFIX` environment variable to the directory containing `tessdata`.
 
 3. **Install dependencies**:
-   * You may want to use a virtual environment
+
+   - You may want to use a virtual environment
+
    ```bash
    python -m venv venv
    source venv/bin/activate
    ```
-   * Install the required packages
+
+   - Install the required packages
+
    ```bash
    pip install -r requirements.txt
    ```
