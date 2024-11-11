@@ -39,3 +39,21 @@ A Python application for reading and extracting key information from business ca
    ```
 
 ## Configuration
+can be done from the `config.yaml` file, by editing the path of the tesseract executable by editing the `tesseract_path` variable, by editing the tessdata folder location through the `tessdata_path` variable and the language through the `language` variable.
+
+## Usage
+Placing the business card image in the root directory and running
+```bash
+python main.py
+```
+## Contribution
+Contributions are welcome
+
+## License
+This project is licensed under the MIT license.
+
+## Acknowledgments
+- ([tesseract](https://github.com/tesseract-ocr/tesseract))
+- ([OpenCV](https://opencv.org))
+- ([ChatGpt](https://chatgpt.com/))
+
