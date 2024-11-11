@@ -53,7 +53,7 @@ Contributions are welcome
 This project is licensed under the MIT license.
 
 ## Acknowledgments
-- ([tesseract](https://github.com/tesseract-ocr/tesseract))
-- ([OpenCV](https://opencv.org))
-- ([ChatGpt](https://chatgpt.com/))
+- [Tesseract](https://github.com/tesseract-ocr/tesseract)
+- [OpenCV](https://opencv.org)
+- [ChatGpt](https://chatgpt.com/)
 
