@@ -25,14 +25,14 @@ A Python application for reading and extracting key information from business ca
 
 3. **Install dependencies**:
 
-   - You may want to use a virtual environment
+   - You may want to use a virtual environment:
 
    ```bash
    python -m venv venv
    source venv/bin/activate
    ```
 
-   - Install the required packages
+   - Install the required packages:
 
    ```bash
    pip install -r requirements.txt
