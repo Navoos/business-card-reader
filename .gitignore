@@ -1,0 +1,69 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+env/
+venv/
+.env/
+.venv/
+
+# Tesseract Training Data (if manually downloaded)
+tessdata/
+
+# Configuration and Environment Files
+config.yaml  # Ignore if you want to keep local settings private
+*.env
+
+# Logs
+*.log
+*.log.*
+
+# Python Dependencies
+*.egg-info/
+*.eggs/
+*.dist-info/
+pip-wheel-metadata/
+
+# IDEs and Editors
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+# Other
+*.sublime-workspace
+*.sublime-project
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Unit Test and Coverage Results
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.pytest_cache/
+
+# Build Files
+build/
+dist/
+*.egg
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Jupyter Notebook Checkpoints (if any notebooks are added later)
+.ipynb_checkpoints/
+
+# Temporary Files
+*.tmp
+*.temp
+

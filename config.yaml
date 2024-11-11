@@ -1,0 +1,3 @@
+tesseract_path: "/usr/bin/tesseract"
+language: "eng"
+tessdata_path: "/usr/local/share/tessdata"
