@@ -14,7 +14,24 @@ A Python application for reading and extracting key information from business ca
 ## Installation
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/yourusername/business-card-reader.git
    cd business-card-reader
    ```
+2. **Set up Tesseract OCR**:
+
+   Ensure that Tesseract is installed. You may want to set the `TESSDATA_PREFIX` environment variable to the directory containing `tessdata`.
+
+3. **Install dependencies**:
+   * You may want to use a virtual environment
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
+   * Install the required packages
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Configuration
