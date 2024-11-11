@@ -10,3 +10,11 @@ A Python application for reading and extracting key information from business ca
 
 - Python 3.7+
 - Tesseract OCR installed on your system ([https://github.com/tesseract-ocr/tesseract#installation](https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file#installing-tesseract))
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/business-card-reader.git
+   cd business-card-reader
+   ```
