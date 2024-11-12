@@ -16,7 +16,7 @@ A Python application for reading and extracting key information from business ca
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/business-card-reader.git
+   git clone https://github.com/navoos/business-card-reader.git
    cd business-card-reader
    ```
 2. **Set up Tesseract OCR**:
